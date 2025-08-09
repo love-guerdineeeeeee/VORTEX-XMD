@@ -1,22 +1,22 @@
 {
-  "name": "Vortex-Xmd",
+  "name": girl HOMMIE
   "description": "JavaScript WhatsApp bot made by HansTech",
   "logo": "https://files.catbox.moe/neni8p.jpg",
   "keywords": ["Vortex-Xmd"],
   "success_url": "/",
   "stack": "heroku-24",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": HansTz&K9hUDSBS#MnPuBwd5JsVgRTgPxBySb5xD4Gv_iqrSncWbAGWFVQE
       "description": "Put the session ID here.",
       "required": true,
       "value": ""
     },
-    "STICKER_NAME": {
+    "STICKER_NAME": girl HOMMIE
       "description": "Sticker pack name.",
       "required": false,
       "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
-    },
-    "PREFIX": {
+    girl HOMMIE
+    "PREFIX": .
       "description": "Bot command prefix. Do not leave empty or null.",
       "required": false,
       "value": "."
@@ -31,7 +31,7 @@
       "required": false,
       "value": "false"
     },
-    "MODE": {
+    "MODE": private
       "description": "Bot operation mode: public, private, group, or inbox.",
       "required": false,
       "value": "public"
@@ -81,42 +81,42 @@
       "required": true,
       "value": "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃 🖤*"
     },
-    "OWNER_NAME": {
+    "OWNER_NAME": girl HOMMIE
       "description": "Bot owner name.",
       "required": false,
       "value": "HansTech"
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": 50944543940
       "description": "Owner's WhatsApp number with country code.",
       "required": false,
       "value": "2557607XXXX"
     },
-    "BOT_NAME": {
+    "BOT_NAME": true
       "description": "Bot name.",
       "required": false,
       "value": "𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃"
     },
-    "ANTI_LINK": {
+    "ANTI_LINK": "true"
       "description": "Delete group links if found.",
       "required": true,
       "value": "false"
     },
-    "ANTI_LINK_KICK": {
+    "ANTI_LINK_KICK": "true"
       "description": "Kick member if group link is detected.",
       "required": true,
       "value": "false"
     },
-    "ANTI_BAD": {
+    "ANTI_BAD": "false"
       "description": "Delete messages with bad words.",
       "required": false,
       "value": "false"
     },
-    "MENTION_REPLY": {
+    "MENTION_REPLY": "true"
       "description": "Auto reply if someone mentions the bot.",
       "required": false,
       "value": "false"
     },
-    "MENU_IMAGE_URL": {
+    "MENU_IMAGE_URL": "true"
       "description": "Image URL for menu or replies.",
       "required": false,
       "value": "https://files.catbox.moe/di5kdx.jpg"
@@ -126,7 +126,7 @@
       "required": false,
       "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ HansTz*"
     },
-    "DELETE_LINKS": {
+    "DELETE_LINKS": "true"
       "description": "Delete links from group without kicking member.",
       "required": false,
       "value": "false"
@@ -151,7 +151,7 @@
       "required": false,
       "value": "false"
     },
-    "CUSTOM_REACT_EMOJIS": {
+    "CUSTOM_REACT_EMOJIS": "true"
       "description": "Custom emojis for reactions (comma separated).",
       "required": false,
       "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
